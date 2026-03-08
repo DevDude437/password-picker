@@ -1,6 +1,6 @@
 # Password Picker
 This is a simple application that will generate a random password for you to use. Currently, it is only available for use in the command line on a computer.
-# How to use (Instructions for Arch Linux):
+# How to use:
 Download the file password_picker.py into your downloads folder. 
 Make sure you have Python 3 installed. 
 Open the Terminal, and to make the script executable run the following commands:
@@ -14,6 +14,6 @@ Now run:
 `chmod +x ~/run_password_picker.sh`
 Now whenever you want to run the script, open the Terminal and just type:
 `~/run_password_picker.sh`
-I hope these instructions help. I have only tested this on Arch Linux, so if you run into any issues, open an issue or shoot me an email! 
+I hope these instructions help. I have tested this on Arch Linux and Linux Mint. If you run into any issues, open an issue or shoot me an email! 
 # Contributing
 If you would like to contribute to this project to add more features, make a GUI or make it available for Android, send me an email at: devdude437@duck.com 
