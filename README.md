@@ -15,3 +15,5 @@ Now run:
 Now whenever you want to run the script, open the Terminal and just type:
 `~/run_password_picker.sh`
 I hope these instructions help. I have only tested this on Arch Linux, so if you run into any issues, open an issue or shoot me an email! 
+# Contributing
+If you would like to contribute to this project to add more features, make a GUI or make it available for Android, send me an email at: devdude437@duck.com 
