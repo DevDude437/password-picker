@@ -1,7 +1,7 @@
-# Password Picker
+# Password Picker🔑
 This is a simple application that will generate a random password for you to use. Currently, it is only available for use in the command line on a computer.
-# How to use:
-Download the file password_picker.py into your downloads folder from the 'Releases' page. 
+# How to use (Instructions for Linux)🖥️
+Download the file password_picker.py into your 'Downloads' folder from the 'Releases' page. 
 Make sure you have Python 3 installed. 
 Open the Terminal, and to make the script executable run the following commands:
 `nano ~/run_password_picker.sh`
@@ -14,6 +14,11 @@ Now run:
 `chmod +x ~/run_password_picker.sh`
 Now whenever you want to run the script, open the Terminal and just type:
 `~/run_password_picker.sh`
-I hope these instructions help. I have tested this on Arch Linux and Linux Mint. If you run into any issues, open an issue or shoot me an email! 
+# How to use (Instructions for Windows)🖥️
+Download the file password_picker.py into your 'Downloads' folder from the 'Releases' page.
+Make sure you have Python 3 installed. 
+Go to your 'Downloads' folder, and double clicking the file password_picker.py should open it in the command line for you to use.
+# How to use (Mac)🖥️
+I haven't tested on Mac yet, but it should be pretty straightforward as long as Python 3 is installed. You could test by using the instructions for Linux and Windows to see what works better. If you test on Mac, please email me with a description of the steps you used to get it to work so I can add instructions here. 
 # Contributing
-If you would like to contribute to this project to add more features, make a GUI or make it available for Android, send me an email at: devdude437@duck.com 
+If you would like to contribute to this project to add more features, make a GUI or make it available for Android, send me an email at: devdude437@duck.com  If you run into any issues, open an issue or shoot me an email!
