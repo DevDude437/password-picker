@@ -11,6 +11,8 @@ nouns = ['apple','dinosaur','ball',
          'hammer','duck','panda']
 
 print('Welcome to Password Picker!')
+
+password_length = int(input("Enter the desired password length"))
 while True:
     adjective = random.choice(adjectives)
     noun = random.choice(nouns)
@@ -24,3 +26,4 @@ while True:
     if response == 'n':
         break
     
+
