@@ -11,4 +11,4 @@ Go to your 'Downloads' folder, and double clicking the file password_picker.py s
 # How to use (Mac)🖥️
 I haven't tested on Mac yet, but it should be pretty straightforward as long as Python 3 is installed. You could test by using the instructions for Linux and Windows to see what works better. If you test on Mac, please email me with a description of the steps you used to get it to work so I can add instructions here. 
 # Contributing
-If you would like to contribute to this project to add more features, make a GUI or make it available for Android, send me an email at: devdude437@duck.com  If you run into any issues, open an issue or shoot me an email!
+If you would like to contribute to this project to add more features, make a GUI or make it available for Android, send me an email at: devdude437@protonmail.com  If you run into any issues, open an issue or shoot me an email!
