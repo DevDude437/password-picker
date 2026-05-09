@@ -9,13 +9,17 @@ adjectives = ['sleepy','slow','smelly',
               'white','proud','brave',
               'gigantic', 'tiny', 'swift',
               'dark', 'bright', 'calm', 'loud',
-              'happy', 'sad']
+              'happy', 'sad', 'fast', 'hot', 'cold',
+              'clean', 'new', 'old', 'strong', 'weak', 'small',
+              'fast', 'heavy', 'light']
 nouns = ['apple','dinosaur','ball',
          'toaster','goat','dragon',
          'hammer','duck','panda',
          'cat', 'dog', 'mouse',
          'computer', 'car', 'book',
-         'sky', 'ocean', 'mountain']
+         'sky', 'ocean', 'mountain', 'river',
+         'friend', 'story', 'city', 'table',
+         'frog', 'horse', 'pig', 'chicken', 'cow']
 
 print('Welcome to Password Picker!')
 
