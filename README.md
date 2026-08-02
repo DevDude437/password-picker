@@ -9,4 +9,4 @@ Download the file password_picker.py into your 'Downloads' folder from the 'Rele
 Make sure you have Python 3 installed. 
 Go to your 'Downloads' folder, and double clicking the file password_picker.py should open it in the command line for you to use.
 # Contributing
-If you would like to contribute to this project to add more features, make a GUI or make it available for Android, send me an email at: devdude437@protonmail.com  If you run into any issues, open an issue or shoot me an email!
+If you would like to contribute to this project, fork the repository and create a descriptive PR with your changes. Please open an issue for large changes
